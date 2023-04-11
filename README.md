@@ -38,3 +38,15 @@ Operation scheme:
 
 5. Will display the result.
 
+
+
+### MEETING nr 3 (14.04.2023)
+
+**Find x**. The program should find the solution to the equation `ax + b = c`. The user provides the parameters `a`, `b`, `c`. The program should work as follows:
+- Display the text "ax + b = c".
+- Ask the user to enter the values of a, b, c.
+- Display the equation "ax + b = c" with numerical values substituted.
+- Calculate the value of x.
+- Display the result.
+
+
