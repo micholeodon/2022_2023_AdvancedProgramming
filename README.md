@@ -5,6 +5,42 @@
 
   * Python Printable Cheatsheet: https://perso.limsi.fr/pointal/_media/python:cours:mementopython3-english.pdf
 
+### MEETING nr 4 (28.04.2023)
+
+**Exercise 1. Parrot**. The program allows you to enter some text and then it writes it to a `parrot.txt` file (created if needed).
+
+Operation scheme:
+
+1. The program asks for some input text,
+    
+1. The program prints the text on the screen,
+    
+1. The program writes the text to a `parrot.txt` file, which should be placed inside the script's directory.	
+
+
+**Exercise 2. Movies**
+
+The program that saves user data into a CSV file - https://en.wikipedia.org/wiki/Comma-separated_values
+
+1. Program asks for a number of data records user want to enter (positive integer; number of rows in the file),
+1. Next user inputs: movie name, 
+1. Next user inputs: numerical value from 1.0 to 10.0,
+1. Two requests above are repeated as many times as the number of rows,
+1. All the data is saved in `movies.csv`, 
+1. At the end, the content of the file is displayed on the screen.
+1. Example content:
+
+```
+No.,Title,Rating
+1,Inception,8.3
+2,Room,2.9
+3,Matrix,7.6
+4,Pianist,8.3
+5,Dune,7.7
+6,Paterson,7.1
+```
+Notice the header!
+
 
 ### MEETING nr 2 (31.03.2023)
 
