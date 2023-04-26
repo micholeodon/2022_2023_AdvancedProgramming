@@ -42,6 +42,32 @@ No.,Title,Rating
 Notice the header!
 
 
+**Exercise 3. Learning Time!**
+
+Write a program that helps with studying.
+
+The user can prepare his own set of questions and correct answers in a text file. Each text file can contain questions from different disciplines.
+For each questions there should be only one correct answer.
+
+Program should:
+
+1. Ask user to input the name of the file to be loaded,
+1. Load selected file,
+1. Ask user how many questions to ask,
+1. Ask **randomly** chosen question from the file,
+1. Ask user to give an answer,
+1. Check whether the answer is correct. 
+1. If correct: add 1 point to the total score, 
+1. If incorrect: show correct answer. No points are added.
+1. After asking the specified number of questions the summary should be displayed. 
+The summary should contain: number of asked questions, number of correct answers, percent of correct answers and (optionally) show questions that were answered incorrectly.
+
+
+**Exercise 4. DecisionTree Class**
+
+Write a program that can load data from a CSV file (e.g., iris dataset - https://gist.github.com/netj/8836201) and perform a decision tree classification. Functions and variables related to decision tree should be enapsulated within a separate class. 
+
+
 ### MEETING nr 2 (31.03.2023)
 
 **Exercise 1. Calculator**. The program allows you to enter two real numbers and perform four operations: `+`, `-`, `*`, `/`, corresponding to addition, subtraction, multiplication, and division. The program calculates four results of all the operations performed on the two numbers specified by the user and displays them.
