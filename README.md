@@ -1,4 +1,4 @@
-# 2022_2023_AdvancedProgramming
+# Advanced Programming (NCU, Cognitive Science)
 
 
   * Python Online Cheatsheet: https://www.pythoncheatsheet.org/
